@@ -12,3 +12,7 @@ You can edit the `frontity-injector-ab-testing.php` file if you want to change t
 
 - FRONTITY_INJECTOR_PERCENTAGE: Percentage of times Frontity is loaded out of 100 (default: 10)
 - TEST_NUMBER: In case you want to start a new experiment from scratch (default: 1)
+
+## Requirements
+
+It needs at least v1.9.0 of our [Frontity WP plugin](https://wordpress.org/plugins/wp-pwa/).
